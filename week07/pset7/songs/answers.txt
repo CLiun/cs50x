@@ -1,0 +1,3 @@
+Count the most listened single song, and artist whose songs are most lisented.
+Describe a function of different attribution of song, and return the mood.
+Apply the function on the artists song list

@@ -1,0 +1,6 @@
+*.db
+*.o
+*.pyc
+.DS_Store
+
+*.db
